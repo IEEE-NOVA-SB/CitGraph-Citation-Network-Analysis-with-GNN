@@ -32,6 +32,8 @@ Future features may include implementing more advanced GNN architectures and exp
 
 ### [ How to Use the Project ](#How_to_use)
 
+### [ How to Contribute to the Project ](#how_to_contribute)
+
 ### [ Include Credits, Authors and acknowledgment for contributions ](#credits)
 
 ----
